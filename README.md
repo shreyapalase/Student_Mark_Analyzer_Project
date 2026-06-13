@@ -1,4 +1,4 @@
-🧮 Student Mark Analyzer System
+# Student Mark Analyzer System
 
 
 The Student Mark Analyzer System is a Python-based desktop application designed to manage student academic records efficiently. It uses SQLite as a database for storing student information and Pandas for analyzing marks and generating results.
