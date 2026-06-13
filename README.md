@@ -36,12 +36,13 @@ sqlite3 – Database connectivity module
 
 ## Project Structure
 
+```
 Student-Mark-Analyzer-System/
 │
 ├── student_system.py
 ├── student_system.db (auto-generated)
 └── README.md
-
+```
 
 ## Installation & Setup
 1. Clone or Download Project
@@ -74,7 +75,6 @@ Average Marks	Grade
 - 60 - 74	B
 - Below 60	C
 
-#___________________________________________________________________________________________________________________________
 
 ## Developer Information :
 Name - Shreya Sunil Palase
